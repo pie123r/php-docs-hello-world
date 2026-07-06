@@ -57,4 +57,4 @@ jobs:
           app-name: 'myFirstApp-rrp001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB3710074DC94686BB02FCE48D4591B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61E572122B874C988E206E809D21EB2A }}
